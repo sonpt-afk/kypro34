@@ -21,11 +21,9 @@
 
   :fire: My Stats :
   
-  
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kypro34&theme=hacker)](https://git.io/streak-stats)
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kypro34&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Son's GitHub stats](https://github-readme-stats.vercel.app/api?username=kypro34)](https://github.com/kypro34/github-readme-stats)
+[![kypro34's GitHub stats](https://github-readme-stats.vercel.app/api?username=kypro34&theme=tokyonight&show_icons=true)
 <!--
 **kypro34/kypro34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
