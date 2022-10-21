@@ -7,7 +7,7 @@
 </a>
 </div>
 <h1>
- Hey there ! My name 's Son Pham ,nickname Goku :smile: 
+ 
 </h1>
 :woman_technologist: About Me : I am a cybersecurity student at Academy of Cryptography Technique , Vietnam . I love studying about modern technologies , hacking and coding .
 
